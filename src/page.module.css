@@ -131,6 +131,7 @@
   max-width: 21.875rem;
   max-height: 31.25rem;
   margin: .4rem;
+  margin-bottom: 5rem;
 }
 
 @media screen and (max-width: 800px) {
@@ -168,6 +169,7 @@
   .section{
     letter-spacing: 0rem;
     font-size: medium;
+    
   }
   .barbies{
     display: block;
@@ -188,6 +190,7 @@
   }
   .barbie-pictures {
     display: block;
+    margin-bottom: 3rem;
   }
   .barbie-picture{
     width: 100%;

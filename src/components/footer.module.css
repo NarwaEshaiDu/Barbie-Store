@@ -7,13 +7,10 @@ p {
   border-top: 1.8px solid black;
   display: flex;
   justify-content: center;
-  margin-top: 5rem;
   padding: 2rem 0;
   color: white;
   font-size: 1rem;
-  position: fixed;
-  width: 100%;
-  bottom:0px;
+  margin-top:auto;
 }
 
 .wrapper > div:first-child {
